@@ -1,6 +1,6 @@
 ---
 title: "Xwiki Tree Macro Builder"
 layout: single
-permalink: /bobby/
+permalink: /xwiki_tree_macro_builder/
 author_profile: true
 ---
