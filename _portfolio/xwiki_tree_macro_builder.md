@@ -3,6 +3,8 @@ title: "Xwiki Tree Macro Builder"
 layout: single
 permalink: /xwiki_tree_macro_builder/
 author_profile: true
+header:
+  teaser: https://i.imgur.com/U73GBzq.png
 ---
 Este programa permite simplificar la creación de un árbol de directorios en XWiki usando el plugin de [Tree Macro](https://extensions.xwiki.org/xwiki/bin/view/Extension/Tree%20Macro)
 

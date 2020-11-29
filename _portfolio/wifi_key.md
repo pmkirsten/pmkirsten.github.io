@@ -3,6 +3,8 @@ title: "Wifi Key"
 layout: single
 permalink: /wifi_key/
 author_profile: true
+header:
+  teaser: https://i.imgur.com/CF69kia.png
 ---
 Esta aplicación mostrará cual es el SSID (nombre de la red WiFi) a la que estás conectado y la clave.
 
