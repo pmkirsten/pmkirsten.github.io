@@ -25,3 +25,6 @@ En la pantalla existen 2 botones extra en la ultima linea del teclado que aparec
 Las palabras se eligen de manera **ALEATORIA** de un listado de 4000 palabras.
 
 ![Imagen 1](https://i.imgur.com/kmWfrId.png)
+
+## Notas
+Este proyecto usa como base el proyecto [hangman](https://github.com/bradtraversy/vanillawebprojects/tree/master/hangman) de [Brad Traversy](https://github.com/bradtraversy)
