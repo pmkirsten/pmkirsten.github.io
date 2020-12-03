@@ -6,7 +6,7 @@ author_profile: true
 header:
   teaser: https://i.imgur.com/kmWfrId.png
 ---
-Este juego permite que juegues al ahorcado de una manera rápida y sencilla. La princiapal ventaja es que nadie conoce la palabra, así que todo el mundo puede jugar.
+Este juego permite que juegues al ahorcado de una manera rápida y sencilla. La principal ventaja es que nadie conoce la palabra, así que todo el mundo puede jugar.
 
 
 ## Requisitos previos
