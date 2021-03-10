@@ -21,6 +21,10 @@ Descargamos el archivo con extensión **\*.jar** y lo ejecutamos. No es necesari
 ![Imagen2](https://i.imgur.com/lNPr7s0.png)
 ![Imagen3](https://i.imgur.com/U73GBzq.png)
 
+Si seleccionamos un nodo del árbol y pulsamos la tecla '**S**' lo marcaremos como selecionado. Si volvemos a pulsar la tecla '**S**' lo deseleccionaremos. Dependiendo del estado del nodo, incluirá el atributo *"selected": true*.
+
+Si pulsamos la tecla '**SUPR**' mientras tenemos un nodo seleccionado, lo borraremos del árbol y lo añadiremos a la lista de exclusiones.
+
 ## Estructura
 El código generado es la de una tabla de una fila y dos columnas según la [sintaxis de XWiki 2.1](https://www.xwiki.org/xwiki/bin/view/Documentation/UserGuide/Features/XWikiSyntax/), en cuya columna izquierda se encuentra el árbol con la estructura de carpetas y ficheros que hemos analizado. 
 
